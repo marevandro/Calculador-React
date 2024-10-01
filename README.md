@@ -22,6 +22,7 @@ Durante o desenvolvimento deste projeto, estudei e apliquei conceitos importante
 O objetivo principal deste projeto foi exercitar e consolidar conhecimentos em **React**, abordando desde a criação de componentes e o gerenciamento de estado até a estilização de elementos e a implementação de eventos para capturar entradas do usuário.
 
 ## 🎥 Demonstração
+https://github.com/user-attachments/assets/5c81de29-ba5f-47b4-bf1d-7465afb02036
 
 
 ## 📂 Organização dos Códigos
